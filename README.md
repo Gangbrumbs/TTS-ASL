@@ -21,13 +21,23 @@ Standardized Formats
 		- MP3
 
   
-Workflow:
-
-Day 1 Delegations:
+Delegations:
 Heng:
-Java Visual Recognition Techniques
+Java Audio Recognition Techniques
+With/o API's
 
 Elijah:
-Python Visual Recognition Techniques
+Python Audio Recognition Techniques
+With/o API's
 
-Workflow Pending
+Workflow 1st Iteration:
+
+Rules:
+Speech file must be in spoken English
+Translated text will be in English
+1st Iteration speech file limit is 1 minute
+
+User input speech file
+Speech file is standardized from original format to MP3
+Speech is translated to text
+Text is printed
