@@ -37,7 +37,7 @@ Speech file must be in spoken English
 Translated text will be in English
 1st Iteration speech file limit is 1 minute
 
-User input speech file
-Speech file is standardized from original format to MP3
-Speech is translated to text
-Text is printed
+User input speech file -> 
+Speech file is standardized from original format to MP3 ->
+Speech is translated to text ->
+Text is printed -> TBD
